@@ -13,6 +13,5 @@ In Week 1, I demonstrated key features such as sorting, filtering, and changing 
 - Visualisation
 - How to effectively present to stakeholders
   
-**Skills developed:**
 
 ![Retail Sales Pivot Table Visualization](Retail_Sales_PivotTable_Visualisation.png)
